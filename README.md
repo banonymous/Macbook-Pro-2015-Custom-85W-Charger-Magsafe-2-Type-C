@@ -14,6 +14,9 @@ Because of continuous bending stock charger cable breaks after ~2.5 years of usa
 Apple uses custom voltage and amperage 20V / 4.25A. 
 And Power Delivery chargers have slighly higher amperage (20V / 5A) - thats why as far as I understood modern GaN chargers could not work well with that configuration.
 
+I used CoconutBattery and IStat Menus applications to measure power.
+Coconut Battery shows ~58W with stock charger.
+
 #### Chargers
 I tested these chargers:
 - Baseus 100W GaN 2 type-c ports 
